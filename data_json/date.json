@@ -1,0 +1,39 @@
+{
+    "data" : [
+        {
+            "number" : 11,
+            "name" : "Mon",
+            "isActive" : 0
+        },
+        {
+            "number" : 12,
+            "name" : "Tue",
+            "isActive" : 1
+        },
+        {
+            "number" : 13,
+            "name" : "Wed",
+            "isActive" : 0
+        },
+        {
+            "number" : 14,
+            "name" : "Thu",
+            "isActive" : 0
+        },
+        {
+            "number" : 15,
+            "name" : "Fri",
+            "isActive" : 0
+        },
+        {
+            "number" : 16,
+            "name" : "Sat",
+            "isActive" : 0
+        },
+        {
+            "number" : 17,
+            "name" : "Sun",
+            "isActive" : 0
+        }
+    ]
+}

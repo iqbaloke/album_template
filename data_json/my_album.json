@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "title": "Terkini",
+            "jumlah": 1198,
+            "image" : "https://cdn.pixabay.com/photo/2023/06/20/01/30/ai-generated-8075768_640.jpg"
+        },
+        {
+            "title": "Kamera",
+            "jumlah": 543,
+            "image" : "https://cdn.pixabay.com/photo/2023/08/31/18/18/purple-coneflower-8225677_1280.jpg"
+        },
+        {
+            "title": "Kenangan",
+            "jumlah": 124,
+            "image" : "https://cdn.pixabay.com/photo/2023/08/19/05/24/starry-sky-8199764_1280.jpg"
+        },
+        {
+            "title": "Favorit",
+            "jumlah": 350,
+            "image" : "https://cdn.pixabay.com/photo/2023/11/06/04/53/woman-8368830_1280.jpg"
+        }
+    ]
+}
